@@ -1,0 +1,50 @@
+<OverlayData>
+	<MarkerCategory name="legs" DisplayName="Lady Elyssa's Guides " texture="Data/LadyElyssa/Images/trailarrow.png" animSpeed="1" alpha="0.9" fadeNear="3000" fadeFar="4000" mapDisplaySize="10" mapVisibility="1">
+		<MarkerCategory name="voe" IsSeparator="1" DisplayName="Visions of Eternity"/>
+			<MarkerCategory name="magic" DisplayName="Magic Mirror Farm (WIP)">
+                <MarkerCategory name="small" DisplayName="Toggle Small Chests" iconFile="Data/LadyElyssa/Images/Square - Blue.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="1"/>
+                <MarkerCategory name="medium" DisplayName="Toggle Medium Chests" iconFile="Data/LadyElyssa/Images/Square - Green.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="1"/>
+                <MarkerCategory name="large" DisplayName="Toggle Large Chests" iconFile="Data/LadyElyssa/Images/Square - Gold.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="40" inGameVisibility="1"/>
+                <MarkerCategory name="mirror" DisplayName="Toggle Magic Mirror" iconFile="Data/LadyElyssa/Images/Icons/Magic Mirror.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48" inGameVisibility="1" behavior="4" resetLength="180"/>
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="ss" DisplayName="Shipwreck Strand">
+                    <MarkerCategory name="medium" DisplayName="Medium Only">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="large" DisplayName="Large Only">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="main" DisplayName="Main Route">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="sw" DisplayName="Starlit Weald" texture="Data/LadyElyssa/Images/trailarrow b&amp;w - S.png">
+                    <MarkerCategory name="medium" DisplayName="Medium Only">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="large" DisplayName="Large Only">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="main" DisplayName="Main Route">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/LadyElyssa/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+				</MarkerCategory>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<Trail GUID="/pJDkk/65UKJFRr22KY4cw==" trailData=".\StarlitWeald_Efficient_Chest_Run.trl" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1"/>
+	</POIs>
+</OverlayData>
