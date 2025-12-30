@@ -1,0 +1,22 @@
+<OverlayData>
+	<POIs>
+		<!-- <Trail GUID="z+vp9jXRkE6vFIDaHBTHnA==" trailData=".\POIs\Data\example1.trl" trailScale="10" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" texture="\Images\ArrowYellow.png"/> -->
+		<!--<Trail type="mymarkers.example1" trailData="Data/example1/Trails/example1.trl" texture="Data/example1/Markers/trailarrow.png"/>-->
+		<Trail type="mymarkers.example1" trailData="Data/example1/Trails/example1.trl" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1"/>
+		<POI MapID="15" xpos="-201.201" ypos="28.6663" zpos="380.863" type="mymarkers.heart" GUID="aLpN5+QS1k6tx1jTAoXEgA=="/>
+		<POI MapID="15" xpos="-228.239" ypos="28.411" zpos="463.123" type="mymarkers.square" GUID="ocrcopXp60+/HXXvROM29w=="/>
+		<POI MapID="15" xpos="-260.274" ypos="29.0906" zpos="463.343" type="mymarkers.triangle" GUID="saffNjpl70CwYlPcXH+bTg=="/>
+
+	</POIs>
+	
+	<MarkerCategory name="mymarkers" DisplayName="My Markers" fadeNear="2500" fadeFar="5000">
+		<MarkerCategory name="example1" DisplayName="Example Trail 1" texture="Data/example1/Markers/trailarrow.png"/>
+		<MarkerCategory name="example1" DisplayName="Example Trail 1"/>
+		<!--
+		<MarkerCategory name="circle" DisplayName="Toggle Circle" iconFile="Data/example1/Markers/circle_marker.png"/>
+		<MarkerCategory name="heart" DisplayName="Toggle Heart" iconFile="Data/example1/Markers/heart_marker.png"/>
+		<MarkerCategory name="square" DisplayName="Toggle Square" iconFile="Data/example1/Markers/square_marker.png"/>
+		<MarkerCategory name="triangle" DisplayName="Toggle Triangle" iconFile="Data/example1/Markers/triangle_marker.png"/>
+		-->
+	</MarkerCategory>
+</OverlayData>

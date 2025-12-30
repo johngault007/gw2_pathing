@@ -1,0 +1,49 @@
+<OverlayData>
+    
+	<MarkerCategory name="mymarkers" DisplayName="My Markers" fadeNear="2500" fadeFar="5000">
+	    <MarkerCategory name="voe" DisplayName="Visions of Eternity">
+			<MarkerCategory name="starlitweald" DisplayName="Starlit Weald">
+				<MarkerCategory name="start" DisplayName="Chest Run Start" iconFile="Data/Markers/Start.png"/>
+				<MarkerCategory name="mirror" DisplayName="Magic Mirror" iconFile="Data/Markers/Icons/Magic Mirror.png"/>
+				<MarkerCategory name="chest" DisplayName="Obscured Chest" iconFile="Data/Markers/Icons/Chest_Cyan.png"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	
+	<POIs>
+	    <Trail type="mymarkers.voe.starlitweald" trailData="Data/Trails/starlitweald.trl" texture="Data/Markers/trailarrow.png"/>
+		<Trail type="mymarkers.voe.starlitweald" trailData="Data/Trails/starlitweald2.trl" texture="Data/Markers/trailarrow b&w"/>
+		<POI MapID="1593" xpos="491.51" ypos="2.55447" zpos="-533.643" type="mymarkers.voe.starlitweald.start" GUID="LxTX3dfZNUC2ck/ZNL5b0Q=="/>
+		<POI MapID="1593" xpos="281.745" ypos="40.2432" zpos="-554.327" type="mymarkers.voe.starlitweald.mirror" GUID="lSdM43dAQkKLOFNctxhc7Q=="/>
+		<POI MapID="1593" xpos="-81.8893" ypos="24.9547" zpos="-486.623" type="mymarkers.voe.starlitweald.mirror" GUID="ZFJj8BOXaEKGZZ+eiAH8hg=="/>
+		<POI MapID="1593" xpos="114.224" ypos="1.69448" zpos="-341.637" type="mymarkers.voe.starlitweald.chest" GUID="PwmIk8o7yEqM237wE2rjYQ=="/>
+		<POI MapID="1593" xpos="132.741" ypos="69.4106" zpos="-113.813" type="mymarkers.voe.starlitweald.mirror" GUID="njS0tstR/Em8jvfUZns4Rw=="/>
+		<POI MapID="1593" xpos="659.15" ypos="17.8286" zpos="-129.31" type="mymarkers.voe.starlitweald.chest" GUID="NdVvA4DrrU6mfvV73zsaVg=="/>
+		<POI MapID="1593" xpos="853.618" ypos="77.1887" zpos="-62.6544" type="mymarkers.voe.starlitweald.mirror" GUID="Hm/G4W/BkUiZ9jDIWq6x6A=="/>
+		<POI MapID="1593" xpos="804.851" ypos="88.9499" zpos="204.146" type="mymarkers.voe.starlitweald.chest" GUID="nKeXJcpcDkukWATLv5O5Uw=="/>
+		<POI MapID="1593" xpos="544.36" ypos="29.1076" zpos="506.792" type="mymarkers.voe.starlitweald.mirror" GUID="9NvRFCGnl0CoaDUxcHRTCg=="/>
+		<POI MapID="1593" xpos="690.713" ypos="39.1444" zpos="306.977" type="mymarkers.voe.starlitweald.chest" GUID="R/dWYwEGPEmqkyQK6K3F5Q=="/>
+		<POI MapID="1593" xpos="509.567" ypos="6.2984" zpos="346.152" type="mymarkers.voe.starlitweald.chest" GUID="8MOxebLiOE6cygFVHsJqMA=="/>
+		<POI MapID="1593" xpos="403.426" ypos="39.0909" zpos="435.791" type="mymarkers.voe.starlitweald.chest" GUID="me6e9p50Ck+eu0arlRuWJA=="/>
+		<POI MapID="1593" xpos="92.5799" ypos="88.1471" zpos="463.055" type="mymarkers.voe.starlitweald.mirror" GUID="rLTiV9eLI0WvrDywJn/+Lg=="/>
+		<POI MapID="1593" xpos="85.6979" ypos="24.3892" zpos="679.219" type="mymarkers.voe.starlitweald.chest" GUID="kMvCEC332kyM5ZKIdmXZOA=="/>
+		<POI MapID="1593" xpos="259.267" ypos="10.8846" zpos="228.361" type="mymarkers.voe.starlitweald.chest" GUID="YiGuoiTVkE+xCyl8A8DbDQ=="/>
+		<POI MapID="1593" xpos="22.1379" ypos="21.9398" zpos="183.927" type="mymarkers.voe.starlitweald.chest" GUID="x0+MUJo7/kKPjxZOvr677g=="/>
+		<POI MapID="1593" xpos="-230.505" ypos="60.8363" zpos="21.4982" type="mymarkers.voe.starlitweald.mirror" GUID="56l+AQzLIEauA1gAy8277g=="/>
+		<POI MapID="1593" xpos="-392.426" ypos="135.908" zpos="-23.3038" type="mymarkers.voe.starlitweald.chest" GUID="kMPusYIri0ykUoxMoZy22Q=="/>
+		<POI MapID="1593" xpos="-532.754" ypos="106.135" zpos="127.441" type="mymarkers.voe.starlitweald.chest" GUID="7spYV/sgdUWsUCFXZLVkQQ=="/>
+		<POI MapID="1593" xpos="-432.833" ypos="149.277" zpos="402.177" type="mymarkers.voe.starlitweald.mirror" GUID="U8wVAPtieEeDnxnAOEDhrw=="/>
+		<POI MapID="1593" xpos="-333.349" ypos="95.4088" zpos="241.673" type="mymarkers.voe.starlitweald.chest" GUID="P4BEyDQx2keaJkFHsXC6UQ=="/>
+		<POI MapID="1593" xpos="-538.652" ypos="70.6975" zpos="246.642" type="mymarkers.voe.starlitweald.chest" GUID="GOjkZLD3oUCrMNwfyCrG+w=="/>
+		<POI MapID="1593" xpos="-589.222" ypos="106.407" zpos="-167.387" type="mymarkers.voe.starlitweald.chest" GUID="p3fo87lKPkeplWHD/K4j9Q=="/>
+		<POI MapID="1593" xpos="-711.936" ypos="65.8958" zpos="-314.711" type="mymarkers.voe.starlitweald.mirror" GUID="T02qZ0jANEyjwPATdsDrIQ=="/>
+		<POI MapID="1593" xpos="-534.27" ypos="62.7124" zpos="-465.241" type="mymarkers.voe.starlitweald.chest" GUID="6CzZa3XT8ku3eJqq8xxa/Q=="/>
+		<POI MapID="1593" xpos="-332.946" ypos="95.3559" zpos="-647.044" type="mymarkers.voe.starlitweald.chest" GUID="m2/1ZDfz0EOBYmeT8/mwrQ=="/>
+		<POI MapID="1593" xpos="-289.435" ypos="121.114" zpos="-652.361" type="mymarkers.voe.starlitweald.chest" GUID="5vl5ePqUmEC7lxIQW0x+MA=="/>
+		<POI MapID="1593" xpos="-332.144" ypos="65.5277" zpos="-535.992" type="mymarkers.voe.starlitweald.chest" GUID="twKC8O5py0OCJCG2/l2T5Q=="/>
+		<POI MapID="1593" xpos="-331.715" ypos="65.6856" zpos="-522.178" iconFile="Data/Markers/Stop_Hand_Blue.png"  GUID="imfPuFHj/Uyw6RZZJrEQwA=="/>
+		<POI MapID="1593" xpos="-331.026" ypos="65.7641" zpos="-518.538" iconFile="Data/Markers/Numbers/2.png" GUID="N998eTlnwkCtSy3GnD6kvw=="/>
+
+	</POIs>
+	
+</OverlayData>
