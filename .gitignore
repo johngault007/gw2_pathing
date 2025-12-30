@@ -4,9 +4,12 @@
 *.css
 *.wbs
 hpgrids.xml
-locationtimers.xml
+locationaltimers.xml
+categorydata.xml
 maptimer.xml
 poidata.xml
 TacO_Language_en.xml
 TacOConfig.xml
 UI.xml
+/POIs/!pois.txt
+/POIs/TacOMarkers.taco
