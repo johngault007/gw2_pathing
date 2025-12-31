@@ -18,8 +18,14 @@ This section is under maintenance and I highly doubt I will contribute to troubl
 
 #### Creating or Managing Your Own Packs
 
-[User:Lady Elyssa/Guide to GW2 TacO Markers and Trails](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Guide_to_GW2_TacO_Markers_and_Trails)
-[Example Marker Pack](https://github.com/xrandox/Example-Marker-Pack)
-[TacO Quick Start Written Guide](https://www.gw2taco.com/2015/12/quick-start-guide.html)
-[How to Create Your Own Marker Pack](https://www.gw2taco.com/2016/01/how-to-create-your-own-marker-pack.html)
-[TinyPNG](https://tinypng.com/)
+- [User:Lady Elyssa/Guide to GW2 TacO Markers and Trails](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa/Guide_to_GW2_TacO_Markers_and_Trails)
+- [Example Marker Pack](https://github.com/xrandox/Example-Marker-Pack)
+- [TacO Quick Start Written Guide](https://www.gw2taco.com/2015/12/quick-start-guide.html)
+- [How to Create Your Own Marker Pack](https://www.gw2taco.com/2016/01/how-to-create-your-own-marker-pack.html)
+- [TinyPNG](https://tinypng.com/)\
+
+## Catch Me In Game
+
+I am online and usually doing random PvE content. You can find me by my user name: 
+
+_**Heilend Geist.7306**_
