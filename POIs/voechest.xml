@@ -36,6 +36,7 @@
 					<MarkerCategory name="scale" DisplayName="Sky Scale" iconFile="Data/Markers/Mounts/Mount_Skyscale.png"/>
 					<MarkerCategory name="grif" DisplayName="Griffon" iconFile="Data/Markers/Mounts/Mount_Griffon.png"/>
 					<MarkerCategory name="beetle" DisplayName="Roller Beetle" iconFile="Data/Markers/Mounts/Mount_Beetle.png"/>
+					<MarkerCategory name="warclaw" DisplayName="Warclaw" iconFile="Data/Markers/Mounts/Mount_Warclaw.png"
 					<MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Markers/Mounts/Bond of Faith.png"/>
 					<MarkerCategory name="glide" DisplayName="Glider" iconFile="Data/Markers/Glider.png"/>
 				</MarkerCategory>
@@ -47,14 +48,64 @@
 	<!-- SHIPWRECK STRAND-->
 		<!-- Trail Data -->
 		<!-- <Trail type="mymarkers.voe.shipwreck.shiptrails.trl1" trailData="Data/Trails/shipwreck1.trl"/> -->
+		<Trail type="mymarkers.voe.shipwreck.shiptrails.trl1" animSpeed="0" trailData="Data/Trails/shipwreck1_v1.trl"/>
+		<Trail type="mymarkers.voe.shipwreck.shiptrails.trl2" animSpeed="0" trailData="Data/Trails/shipwreck2_v1.trl"/>
+		<Trail type="mymarkers.voe.shipwreck.shiptrails.trl3" animSpeed="0" trailData="Data/Trails/shipwreck3_v1.trl"/>
 		<!-- Mount Data -->
-
+		<POI MapID="1595" xpos="232.823" ypos="0.299811" zpos="-486.798" type="mymarkers.voe.shipwreck.mounts.beetle" GUID="4Hs2Gx+cQ0i0J0oHZxw4aA=="/>
+		<POI MapID="1595" xpos="523.822" ypos="2.30725" zpos="-582.212" type="mymarkers.voe.shipwreck.mounts.skim" GUID="tnF8JZ3RikmWf42clpcyuQ=="/>
+		<POI MapID="1595" xpos="655.606" ypos="32.0499" zpos="-611.017" type="mymarkers.voe.shipwreck.mounts.grif" GUID="p0FLB+0O/0adWxOi08bKsg=="/>	
+		<POI MapID="1595" xpos="478.043" ypos="48.7768" zpos="-435.368" type="mymarkers.voe.shipwreck.mounts.grif" GUID="pubRTXOEqEqZjcGHTKusFw=="/>	
+		<POI MapID="1595" xpos="315.823" ypos="36.1747" zpos="-338.598" type="mymarkers.voe.shipwreck.mounts.grif" GUID="fLNB5+1pZkyaYRIBOV5nVA=="/>	
+		<POI MapID="1595" xpos="529.658" ypos="46.879" zpos="750.135" type="mymarkers.voe.shipwreck.mounts.grif" GUID="E4U925jDe0ySevCNs9vfLA=="/>
+		<POI MapID="1595" xpos="648.739" ypos="20.9844" zpos="424.916" type="mymarkers.voe.shipwreck.mounts.skim" GUID="sgrsepHEmUezg+tDSQ/1CQ=="/>
+		<POI MapID="1595" xpos="376.568" ypos="50.7785" zpos="362.412" type="mymarkers.voe.shipwreck.mounts.grif" GUID="vFQvVTZI4U6Fle+Wdcr2EQ=="/>
+		<POI MapID="1595" xpos="327.728" ypos="34.9796" zpos="501.092" type="mymarkers.voe.shipwreck.mounts.skim" GUID="78VLicMZ8UCkgpjaUNYblw=="/>
+		<POI MapID="1595" xpos="67.7993" ypos="45.001" zpos="637.664" type="mymarkers.voe.shipwreck.mounts.grif" GUID="HdUwssLu1kGcBuOHShdXvg=="/>
+		<POI MapID="1595" xpos="-104.211" ypos="60.8309" zpos="806.63" type="mymarkers.voe.shipwreck.mounts.grif" GUID="2mI38wkiTEeaG6BVC5p+AA=="/>
+		<POI MapID="1595" xpos="-134.027" ypos="29.2783" zpos="578.615" type="mymarkers.voe.shipwreck.mounts.grif" GUID="Ra1mbh2LCkux4kVx1Fh6vw=="/>
+		<POI MapID="1595" xpos="-303.903" ypos="0.246591" zpos="806.338" type="mymarkers.voe.shipwreck.mounts.skim" GUID="/e0Z5RUw30a+KUWcOqTN3Q=="/>
+		<POI MapID="1595" xpos="-461.05" ypos="56.2572" zpos="717.297" type="mymarkers.voe.shipwreck.mounts.grif" GUID="KrrST8LhpUO8kti1PvbsEQ=="/>
+		<POI MapID="1595" xpos="-333.397" ypos="77.8765" zpos="190.063" type="mymarkers.voe.shipwreck.mounts.scale" GUID="snnn9G67rEOB9Z3fqcRYWg=="/>
+		<POI MapID="1595" xpos="-514.683" ypos="158.022" zpos="168.269" type="mymarkers.voe.shipwreck.mounts.grif" GUID="0WJiDiYBsUST65APlV7pow=="/>	
+		<POI MapID="1595" xpos="-602.101" ypos="122.188" zpos="92.7835" type="mymarkers.voe.shipwreck.mounts.scale" GUID="wNY/XCltW0+1j87/5rFMuQ=="/>
+		<POI MapID="1595" xpos="-553.397" ypos="147.142" zpos="44.1477" type="mymarkers.voe.shipwreck.mounts.grif" GUID="P87xjiR9Q0CHJwQZa+5juA=="/>	
+		<POI MapID="1595" xpos="-564.244" ypos="74.1959" zpos="-147.808" type="mymarkers.voe.shipwreck.mounts.grif" GUID="yrI/LxUYmEmP+FbUou6LOg=="/>	
+		<POI MapID="1595" xpos="-416.531" ypos="97.6743" zpos="-20.1179" type="mymarkers.voe.shipwreck.mounts.grif" GUID="AiEgTKaBnE+Bd6QkYbBJUg=="/>	
+		<POI MapID="1595" xpos="-132.764" ypos="38.2408" zpos="-84.1849" type="mymarkers.voe.shipwreck.mounts.scale" GUID="nRu8FR6K4UWtLvzShgdgRQ=="/>
+		<POI MapID="1595" xpos="-186.209" ypos="80.8334" zpos="-125.304" type="mymarkers.voe.shipwreck.mounts.grif" GUID="e4QCICoYeU+VDsnJdBoLVA=="/>
+		<POI MapID="1595" xpos="-450.569" ypos="103.87" zpos="-496.485" type="mymarkers.voe.shipwreck.mounts.scale" GUID="0PBcNE0AoUOVHhJhTxeaGA=="/>
+		<POI MapID="1595" xpos="-631.078" ypos="113.638" zpos="-529.024" type="mymarkers.voe.shipwreck.mounts.scale" GUID="Wlb9nI7skkOvVCr6cT7ygw=="/>	
+		<POI MapID="1595" xpos="-433.619" ypos="118.964" zpos="-776.189" type="mymarkers.voe.shipwreck.mounts.warclaw" GUID="iQ/XZCszL06HMm8vJOh/hA=="/>
+		<POI MapID="1595" xpos="-428.533" ypos="13.1382" zpos="-751.813" type="mymarkers.voe.shipwreck.mounts.skim" GUID="cDQscXTbp0iKJn/fKIiLvQ=="/>
 		<!-- Mirror and Chest Data -->
-
+		<POI MapID="1595" xpos="659.652" ypos="31.1535" zpos="-618.49" type="mymarkers.voe.shipwreck.mirror" GUID="5L/xBMT3w0WerKmVAz05FA=="/>
+		<POI MapID="1595" xpos="481.336" ypos="48.9535" zpos="-435.229" type="mymarkers.voe.shipwreck.chest" GUID="0hftS58uTEykzq1KUXUlAQ=="/>
+		<POI MapID="1595" xpos="328.033" ypos="35.9774" zpos="-343.884" type="mymarkers.voe.shipwreck.mirror" GUID="A5I3M9UHy0WJjYrhj3kkXQ=="/>
+		<POI MapID="1595" xpos="-58.5921" ypos="32.231" zpos="-46.9745" type="mymarkers.voe.shipwreck.mirror" GUID="p0fOo2o+YkyG5W8Oc/hcmQ==" copy="[&BJEPAAA=]" copy-message="Pub Canach Waypoint" info="Pub Canach Waypoint" infoRange="5"/>
+		<POI MapID="1595" xpos="526.099" ypos="47.0135" zpos="752.889" type="mymarkers.voe.shipwreck.mirror" GUID="gxcbk6mMt0mo9gkmqXRhDA=="/>
+		<POI MapID="1595" xpos="663.61" ypos="15.3837" zpos="431.607" type="mymarkers.voe.shipwreck.chest" GUID="UagDvcVGoES+FRPoATJZag=="/>
+		<POI MapID="1595" xpos="384.994" ypos="53.309" zpos="364.494" type="mymarkers.voe.shipwreck.chest" GUID="krsSwvyve0qrgn0PBqZZVg=="/>
+		<POI MapID="1595" xpos="329.767" ypos="35.076" zpos="501.826" type="mymarkers.voe.shipwreck.chest" GUID="Y7cDYzNPTEWzc+kWq1rldQ=="/>
+		<POI MapID="1595" xpos="-84.9784" ypos="64.2976" zpos="841.179" type="mymarkers.voe.shipwreck.mirror" GUID="VnvqEO4tj0qGCcB6BZ6b5A=="/>
+		<POI MapID="1595" xpos="-120.17" ypos="30.453" zpos="587.791" type="mymarkers.voe.shipwreck.chest" GUID="/fwAWBXcxkmmF3/RxUyO8Q=="/>
+		<POI MapID="1595" xpos="-287.741" ypos="0.642785" zpos="801.595" type="mymarkers.voe.shipwreck.chest" GUID="zMJICwOcekCz8CTGOMXf8A=="/>
+		<POI MapID="1595" xpos="-457.336" ypos="56.4529" zpos="727.572" type="mymarkers.voe.shipwreck.mirror" GUID="hTyx128Uyk+bmr4AwR+ocQ=="/>
+		<POI MapID="1595" xpos="-315.767" ypos="76.1065" zpos="195.948" type="mymarkers.voe.shipwreck.mirror" GUID="DDSbEb5mHkG4hBcJfsakIg=="/>
+		<POI MapID="1595" xpos="-610.778" ypos="122.119" zpos="92.4868" type="mymarkers.voe.shipwreck.chest" GUID="0M07rjWfr0ad1MTVrxQ4fg=="/>
+		<POI MapID="1595" xpos="-573.37" ypos="73.6876" zpos="-152.089" type="mymarkers.voe.shipwreck.mirror" GUID="O+aSpgf8YkS+FAm2jGhZ2w=="/>
+		<POI MapID="1595" xpos="-415.75" ypos="96.131" zpos="-10.407" type="mymarkers.voe.shipwreck.chest" GUID="Oa8gkoPiVkWB4/QMBm0j8g=="/>
+		<POI MapID="1595" xpos="-131.761" ypos="37.242" zpos="-73.9762" type="mymarkers.voe.shipwreck.chest" GUID="tjAN+Qb5m0qlT5ILYA3+XQ=="/>
+		<POI MapID="1595" xpos="-445.576" ypos="103.47" zpos="-494.124" type="mymarkers.voe.shipwreck.mirror" GUID="PV3ST4mnlESRRMtsYmXhHg=="/>
+		<POI MapID="1595" xpos="-637.646" ypos="112.959" zpos="-523.184" type="mymarkers.voe.shipwreck.chest" GUID="wBoaW2dvoUO6bYQ88ecZIQ=="/>
+		<POI MapID="1595" xpos="-441.265" ypos="117.863" zpos="-784.401" type="mymarkers.voe.shipwreck.chest" GUID="7mxDxrjfCEGzkI0LxklWBQ=="/>
+		<POI MapID="1595" xpos="-324.215" ypos="10.7474" zpos="-402.478" type="mymarkers.voe.shipwreck.chest" GUID="UPSRCXgROEGM8Cxr77oDQA=="/>
 		<!-- Other Instructions -->
+		<POI MapID="1595" xpos="222.349" ypos="0.296422" zpos="-465.734" type="mymarkers.voe.shipwreck.start" GUID="eQi0r2RfjEKeeUeF/Gs7mw=="/>
+
 	<!-- STARLIT WEALD -->
 		<!-- Trail Data -->
-	    <Trail type="mymarkers.voe.starlitweald.swtrails.trl1" animSpeed="0" trailData="Data/Trails/starlitweald1_v2.trl" />
+	    <Trail type="mymarkers.voe.starlitweald.swtrails.trl1" animSpeed="0" trailData="Data/Trails/starlitweald1_v2.trl"/>
 		<Trail type="mymarkers.voe.starlitweald.swtrails.trl2" animSpeed="0" trailData="Data/Trails/starlitweald2_v2.trl"/>
 		<Trail type="mymarkers.voe.starlitweald.swtrails.trl3" animSpeed="0" trailData="Data/Trails/starlitweald3_v2.trl"/>
 		<!-- Mount Data -->
