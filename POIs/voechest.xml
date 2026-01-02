@@ -26,9 +26,9 @@
 				<MarkerCategory name="mirror" DisplayName="Magic Mirror" iconFile="Data/Markers/Icons/Magic Mirror.png"/>
 				<MarkerCategory name="chest" DisplayName="Obscured Chest" iconFile="Data/Markers/Icons/Strongbox.png"/>
 				<MarkerCategory name="swtrails" DisplayName="Trails">
-					<MarkerCategory name="trl1" DisplayName="Trail 1" texture="Data/Markers/Trails/Dashed Line with Shadow.png" fadeNear="3000" fadeFar="3500"/>
-					<MarkerCategory name="trl2" DisplayName="Trail 2" texture="Data/Markers/Trails/Dark Dashed Line - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
-					<MarkerCategory name="trl3" DisplayName="Trail 3" texture="Data/Markers/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl1" DisplayName="Trail 1" texture="Data/Markers/trailarrow.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl2" DisplayName="Trail 2" texture="Data/Markers/trailarrow-two-tone.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl3" DisplayName="Trail 3" texture="Data/Markers/trailarrow-wood.png" fadeNear="3000" fadeFar="3500"/>
 				</MarkerCategory>
 				<MarkerCategory name="mounts" DisplayName="Suggested Mounts">
 					<MarkerCategory name="skim" DisplayName="Skimmer" iconFile="Data/Markers/Mounts/Mount_Skimmer.png"/>
@@ -54,9 +54,9 @@
 		<!-- Other Instructions -->
 	<!-- STARLIT WEALD -->
 		<!-- Trail Data -->
-	    <Trail type="mymarkers.voe.starlitweald.swtrails.trl1" trailData="Data/Trails/starlitweald.trl" />
-		<Trail type="mymarkers.voe.starlitweald.swtrails.trl2" trailData="Data/Trails/starlitweald2.trl"/>
-		<Trail type="mymarkers.voe.starlitweald.swtrails.trl3" trailData="Data/Trails/starlitweald3.trl"/>
+	    <Trail type="mymarkers.voe.starlitweald.swtrails.trl1" animSpeed="0" trailData="Data/Trails/starlitweald1_v2.trl" />
+		<Trail type="mymarkers.voe.starlitweald.swtrails.trl2" animSpeed="0" trailData="Data/Trails/starlitweald2_v2.trl"/>
+		<Trail type="mymarkers.voe.starlitweald.swtrails.trl3" animSpeed="0" trailData="Data/Trails/starlitweald3_v2.trl"/>
 		<!-- Mount Data -->
 		<POI MapID="1593" xpos="486.497" ypos="2.6114" zpos="-534.003" type="mymarkers.voe.starlitweald.mounts.skim" GUID="USWssQyoikKW3zgiOk+0Iw=="/>
 		<POI MapID="1593" xpos="250.884" ypos="42.2549" zpos="-551.227" type="mymarkers.voe.starlitweald.mounts.skim" GUID="/zV0ltefgkSkCQZGwrSaRg=="/>
@@ -76,9 +76,10 @@
 		<POI MapID="1593" xpos="108.268" ypos="84.1642" zpos="515.651" type="mymarkers.voe.starlitweald.mounts.grif" GUID="BstQnuLD2EmriODs85jrhw=="/>
 		<POI MapID="1593" xpos="261.081" ypos="10.3018" zpos="222.956" type="mymarkers.voe.starlitweald.mounts.scale" GUID="Y5obMBVoSUu/WWGC+zEMjQ=="/>
 		<POI MapID="1593" xpos="15.3906" ypos="24.1992" zpos="179.376" type="mymarkers.voe.starlitweald.mounts.scale" GUID="pialul6GXUCpKbvnh+dtJw=="/>
-		<POI MapID="1593" xpos="-181.978" ypos="51.1483" zpos="58.65" type="mymarkers.voe.starlitweald.mounts.bof" GUID="1jDErE/d80eHJmgtcftPgg=="/>
-		<POI MapID="1593" xpos="-218.118" ypos="47.0291" zpos="30.6305" type="mymarkers.voe.starlitweald.mounts.spring" GUID="ULm4GL2QQUyIdrTjN49nzw=="/>
+		<POI MapID="1593" xpos="-393.697" ypos="135.917" zpos="-17.1434" type="mymarkers.voe.starlitweald.mounts.grif" GUID="FIy+2zjkLEOLEjyZZ52bJA=="/>
 		<POI MapID="1593" xpos="-529.541" ypos="147.794" zpos="188.204" type="mymarkers.voe.starlitweald.mounts.grif" GUID="E6ZeoEF13kylqFHU21bQVw=="/>
+		<POI MapID="1593" xpos="-535.7" ypos="106.135" zpos="130.446" type="mymarkers.voe.starlitweald.mounts.scale" GUID="OhxQaF1cPECRlGeT8McO3A=="/>
+		<POI MapID="1593" xpos="-390.7" ypos="135.675" zpos="-8.64097" type="mymarkers.voe.starlitweald.mounts.scale" GUID="g2am/RxAYEixvKJcuaFXag=="/>
 		<POI MapID="1593" xpos="-430.964" ypos="147.185" zpos="375.368" type="mymarkers.voe.starlitweald.mounts.grif" GUID="1invoqs8jk2K5Kn4+kAlTA=="/>
 		<POI MapID="1593" xpos="-332.462" ypos="94.4831" zpos="235.037" type="mymarkers.voe.starlitweald.mounts.grif" GUID="IyMUDqXaXUqwwRVySHW7aQ=="/>
 		<POI MapID="1593" xpos="-539.138" ypos="79.1107" zpos="236.674" type="mymarkers.voe.starlitweald.mounts.scale" GUID="hrVRKN9qBEKfesKqJvaFlw=="/>
