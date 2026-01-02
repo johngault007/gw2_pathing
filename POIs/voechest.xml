@@ -7,9 +7,9 @@
 				<MarkerCategory name="mirror" DisplayName="Magic Mirror" iconFile="Data/Markers/Icons/Magic Mirror.png"/>
 				<MarkerCategory name="chest" DisplayName="Obscured Chest" iconFile="Data/Markers/Icons/Strongbox.png"/>
 				<MarkerCategory name="shiptrails" DisplayName="Trails">
-					<MarkerCategory name="trl1" DisplayName="Trail 1" texture="Data/Markers/Trails/Dashed Line with Shadow.png" fadeNear="3000" fadeFar="3500"/>
-					<MarkerCategory name="trl2" DisplayName="Trail 2" texture="Data/Markers/Trails/Dark Dashed Line - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
-					<MarkerCategory name="trl3" DisplayName="Trail 3" texture="Data/Markers/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl1" DisplayName="Trail 1" texture="Data/Markers/trailarrow.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl2" DisplayName="Trail 2" texture="Data/Markers/trailarrow-two-tone.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl3" DisplayName="Trail 3" texture="Data/Markers/trailarrow-wood.png" fadeNear="3000" fadeFar="3500"/>
 				</MarkerCategory>
 				<MarkerCategory name="mounts" DisplayName="Suggested Mounts">
 					<MarkerCategory name="skim" DisplayName="Skimmer" iconFile="Data/Markers/Mounts/Mount_Skimmer.png"/>
