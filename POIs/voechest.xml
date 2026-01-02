@@ -2,11 +2,30 @@
     
 	<MarkerCategory name="mymarkers" DisplayName="My Markers" fadeNear="2500" fadeFar="5000">
 	    <MarkerCategory name="voe" DisplayName="Visions of Eternity">
+			<MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand">
+				<MarkerCategory name="start" DisplayName="Chest Run Start" iconFile="Data/Markers/Start.png"/>
+				<MarkerCategory name="mirror" DisplayName="Magic Mirror" iconFile="Data/Markers/Icons/Magic Mirror.png"/>
+				<MarkerCategory name="chest" DisplayName="Obscured Chest" iconFile="Data/Markers/Icons/Strongbox.png"/>
+				<MarkerCategory name="shiptrails" DisplayName="Trails">
+					<MarkerCategory name="trl1" DisplayName="Trail 1" texture="Data/Markers/Trails/Dashed Line with Shadow.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl2" DisplayName="Trail 2" texture="Data/Markers/Trails/Dark Dashed Line - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
+					<MarkerCategory name="trl3" DisplayName="Trail 3" texture="Data/Markers/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
+				</MarkerCategory>
+				<MarkerCategory name="mounts" DisplayName="Suggested Mounts">
+					<MarkerCategory name="skim" DisplayName="Skimmer" iconFile="Data/Markers/Mounts/Mount_Skimmer.png"/>
+					<MarkerCategory name="spring" DisplayName="Springer" iconFile="Data/Markers/Mounts/Mount_Springer.png"/>
+					<MarkerCategory name="scale" DisplayName="Sky Scale" iconFile="Data/Markers/Mounts/Mount_Skyscale.png"/>
+					<MarkerCategory name="grif" DisplayName="Griffon" iconFile="Data/Markers/Mounts/Mount_Griffon.png"/>
+					<MarkerCategory name="beetle" DisplayName="Roller Beetle" iconFile="Data/Markers/Mounts/Mount_Beetle.png"/>
+					<MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Markers/Mounts/Bond of Faith.png"/>
+					<MarkerCategory name="glide" DisplayName="Glider" iconFile="Data/Markers/Glider.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
 			<MarkerCategory name="starlitweald" DisplayName="Starlit Weald">
 				<MarkerCategory name="start" DisplayName="Chest Run Start" iconFile="Data/Markers/Start.png"/>
 				<MarkerCategory name="mirror" DisplayName="Magic Mirror" iconFile="Data/Markers/Icons/Magic Mirror.png"/>
 				<MarkerCategory name="chest" DisplayName="Obscured Chest" iconFile="Data/Markers/Icons/Strongbox.png"/>
-				<MarkerCategory name="swtrails" DisplayName="Starlit Weald Trails">
+				<MarkerCategory name="swtrails" DisplayName="Trails">
 					<MarkerCategory name="trl1" DisplayName="Trail 1" texture="Data/Markers/Trails/Dashed Line with Shadow.png" fadeNear="3000" fadeFar="3500"/>
 					<MarkerCategory name="trl2" DisplayName="Trail 2" texture="Data/Markers/Trails/Dark Dashed Line - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
 					<MarkerCategory name="trl3" DisplayName="Trail 3" texture="Data/Markers/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="3000" fadeFar="3500"/>
@@ -25,6 +44,15 @@
 	</MarkerCategory>
 	
 	<POIs>
+	<!-- SHIPWRECK STRAND-->
+		<!-- Trail Data -->
+		<!-- <Trail type="mymarkers.voe.shipwreck.shiptrails.trl1" trailData="Data/Trails/shipwreck1.trl"/> -->
+		<!-- Mount Data -->
+
+		<!-- Mirror and Chest Data -->
+
+		<!-- Other Instructions -->
+	<!-- STARLIT WEALD -->
 		<!-- Trail Data -->
 	    <Trail type="mymarkers.voe.starlitweald.swtrails.trl1" trailData="Data/Trails/starlitweald.trl" />
 		<Trail type="mymarkers.voe.starlitweald.swtrails.trl2" trailData="Data/Trails/starlitweald2.trl"/>
