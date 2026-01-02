@@ -1,5 +1,4 @@
 <OverlayData>
-    
 	<MarkerCategory name="mymarkers" DisplayName="My Markers" fadeNear="2500" fadeFar="5000">
 	    <MarkerCategory name="voe" DisplayName="Visions of Eternity">
 			<MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand">
@@ -46,7 +45,9 @@
 	<POIs>
 	<!-- SHIPWRECK STRAND-->
 		<!-- Trail Data -->
-		<!-- <Trail type="mymarkers.voe.shipwreck.shiptrails.trl1" trailData="Data/Trails/shipwreck1.trl"/> -->
+		<Trail type="mymarkers.voe.shipwreck.shiptrails.trl1" animSpeed="0" trailData="Data/Trails/shipwreck1_v1.trl"/>
+		<Trail type="mymarkers.voe.shipwreck.shiptrails.trl2" animSpeed="0" trailData="Data/Trails/shipwreck2_v1.trl"/>
+		<Trail type="mymarkers.voe.shipwreck.shiptrails.trl3" animSpeed="0" trailData="Data/Trails/shipwreck3_v1.trl"/>
 		<!-- Mount Data -->
 
 		<!-- Mirror and Chest Data -->
