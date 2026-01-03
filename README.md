@@ -5,6 +5,26 @@ create ad-hoc paths and marker packs that weren't available in the larger repos 
 
 My first project involves a streamlined Obscure Chest run in the new maps of Castora in the Visions of Eternity expansion pack. There were no adequate marker packs available, as the chest run was mentioned as a forum post on the Guild Wars 2 forum. 
 
+### What Is Available
+
+#### Visions of Eternity Medium/Large Chest Run
+
+This chest run was inspired by a user created post that takes advantage of all Medium and Large chests (and some small chests) in Shipwreck Strand and Starlit Weald. There is no requirement to event spam and only utlizes the intial 8 key charges for initial map visit, and unlocking keys using Mirrors.
+
+#### Shipwreck Strand
+
+_This is a work in progress and will be available soon._
+
+#### Starlit Weald
+
+- Trail data split up into three unique paths that must be completed in order. (Use XXX_v2.trl files)
+- All Mirrors and Obscure chest locations used in this chest run are marked.
+- Suggested mount usage is marked with icons along the paths.
+- The following can be disabled in the menu:
+  - Individual trails (1-3)
+  - Mount icons suggestions
+  - Mirrors and obsured chests
+
 ### Where Can I Use This
 
 Currently the marker pack is developed in GW Tactical Overaly (TacO) and can be loaded in a local instance. While I have no intention to develop a full scale repository that would be available through BlishHud, I can't rule it out entirely.
