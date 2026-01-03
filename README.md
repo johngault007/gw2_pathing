@@ -13,7 +13,13 @@ This chest run was inspired by a user created post that takes advantage of all M
 
 #### Shipwreck Strand
 
-_This is a work in progress and will be available soon._
+- Trail data split up into three unique paths that must be completed in order. (use XXX_v1.trl files)
+- All Mirrors and Obscure Chest locations used in this chest run are marked.
+- Suggested mount usage is marked with icons along the paths.
+- The following can be disabled in the menu:
+  - Individual trails (1-3)
+  - Mount icons suggestions
+  - Mirrors and obscured chests
 
 #### Starlit Weald
 
@@ -23,7 +29,7 @@ _This is a work in progress and will be available soon._
 - The following can be disabled in the menu:
   - Individual trails (1-3)
   - Mount icons suggestions
-  - Mirrors and obsured chests
+  - Mirrors and obscured chests
 
 ### Where Can I Use This
 
