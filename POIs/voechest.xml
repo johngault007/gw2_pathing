@@ -16,6 +16,7 @@
 					<MarkerCategory name="scale" DisplayName="Sky Scale" iconFile="Data/Markers/Mounts/Mount_Skyscale.png"/>
 					<MarkerCategory name="grif" DisplayName="Griffon" iconFile="Data/Markers/Mounts/Mount_Griffon.png"/>
 					<MarkerCategory name="beetle" DisplayName="Roller Beetle" iconFile="Data/Markers/Mounts/Mount_Beetle.png"/>
+					<MarkerCategory name="warclaw" DisplayName="Warclaw" iconFile="Data/Markers/Mounts/Mount_Warclaw.png"/>
 					<MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Markers/Mounts/Bond of Faith.png"/>
 					<MarkerCategory name="glide" DisplayName="Glider" iconFile="Data/Markers/Glider.png"/>
 				</MarkerCategory>
@@ -35,7 +36,7 @@
 					<MarkerCategory name="scale" DisplayName="Sky Scale" iconFile="Data/Markers/Mounts/Mount_Skyscale.png"/>
 					<MarkerCategory name="grif" DisplayName="Griffon" iconFile="Data/Markers/Mounts/Mount_Griffon.png"/>
 					<MarkerCategory name="beetle" DisplayName="Roller Beetle" iconFile="Data/Markers/Mounts/Mount_Beetle.png"/>
-					<MarkerCategory name="warclaw" DisplayName="Warclaw" iconFile="Data/Markers/Mounts/Mount_Warclaw.png"
+					<MarkerCategory name="warclaw" DisplayName="Warclaw" iconFile="Data/Markers/Mounts/Mount_Warclaw.png"/>
 					<MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Markers/Mounts/Bond of Faith.png"/>
 					<MarkerCategory name="glide" DisplayName="Glider" iconFile="Data/Markers/Glider.png"/>
 				</MarkerCategory>
@@ -76,11 +77,18 @@
 		<POI MapID="1595" xpos="-631.078" ypos="113.638" zpos="-529.024" type="mymarkers.voe.shipwreck.mounts.scale" GUID="Wlb9nI7skkOvVCr6cT7ygw=="/>	
 		<POI MapID="1595" xpos="-433.619" ypos="118.964" zpos="-776.189" type="mymarkers.voe.shipwreck.mounts.warclaw" GUID="iQ/XZCszL06HMm8vJOh/hA=="/>
 		<POI MapID="1595" xpos="-428.533" ypos="13.1382" zpos="-751.813" type="mymarkers.voe.shipwreck.mounts.skim" GUID="cDQscXTbp0iKJn/fKIiLvQ=="/>
+		<POI MapID="1595" xpos="-56.5482" ypos="32.1112" zpos="-44.1459" type="mymarkers.voe.shipwreck.mounts.scale" GUID="7mCSuHWjLUyNC0PipA4ElQ=="/>
+		<POI MapID="1595" xpos="-309.85" ypos="75.8848" zpos="187.794" type="mymarkers.voe.shipwreck.mounts.grif" GUID="Zpq9yqmyf06qbVEZsji0uA=="/>
+		<POI MapID="1595" xpos="-319.096" ypos="55.9214" zpos="-73.8674" type="mymarkers.voe.shipwreck.mounts.skim" GUID="hX+aUNqQTUeGKhJndL0BrQ=="/>
+		<POI MapID="1595" xpos="-560.31" ypos="77.2914" zpos="-172.002" type="mymarkers.voe.shipwreck.mounts.scale" GUID="UVxKQ68R90eYEuM+XMBB+Q=="/>
+		<POI MapID="1595" xpos="-521.232" ypos="109.802" zpos="-411.786" type="mymarkers.voe.shipwreck.mounts.scale" GUID="An1VKSoJgkepF7cqx4liNA=="/>
+		<POI MapID="1595" xpos="-445.728" ypos="103.257" zpos="-506.292" type="mymarkers.voe.shipwreck.mounts.grif" GUID="4B+6SEF+fEyiepXpC93xCA=="/>
+		<POI MapID="1595" xpos="-477.257" ypos="72.253" zpos="-705.163" type="mymarkers.voe.shipwreck.mounts.warclaw" GUID="yTm68NcLvkCV+Zh1t+v+Vw=="/>
 		<!-- Mirror and Chest Data -->
 		<POI MapID="1595" xpos="659.652" ypos="31.1535" zpos="-618.49" type="mymarkers.voe.shipwreck.mirror" GUID="5L/xBMT3w0WerKmVAz05FA=="/>
 		<POI MapID="1595" xpos="481.336" ypos="48.9535" zpos="-435.229" type="mymarkers.voe.shipwreck.chest" GUID="0hftS58uTEykzq1KUXUlAQ=="/>
 		<POI MapID="1595" xpos="328.033" ypos="35.9774" zpos="-343.884" type="mymarkers.voe.shipwreck.mirror" GUID="A5I3M9UHy0WJjYrhj3kkXQ=="/>
-		<POI MapID="1595" xpos="-58.5921" ypos="32.231" zpos="-46.9745" type="mymarkers.voe.shipwreck.mirror" GUID="p0fOo2o+YkyG5W8Oc/hcmQ==" copy="[&BJEPAAA=]" copy-message="Pub Canach Waypoint" info="Pub Canach Waypoint" infoRange="5"/>
+		<POI MapID="1595" xpos="-58.5921" ypos="32.231" zpos="-46.9745" type="mymarkers.voe.shipwreck.mirror" GUID="p0fOo2o+YkyG5W8Oc/hcmQ==" copy="[&BJwPAAA=]" copy-message="Dark Leviathan Waypoint" info="Dark Leviathan Waypoint" infoRange="5"/>
 		<POI MapID="1595" xpos="526.099" ypos="47.0135" zpos="752.889" type="mymarkers.voe.shipwreck.mirror" GUID="gxcbk6mMt0mo9gkmqXRhDA=="/>
 		<POI MapID="1595" xpos="663.61" ypos="15.3837" zpos="431.607" type="mymarkers.voe.shipwreck.chest" GUID="UagDvcVGoES+FRPoATJZag=="/>
 		<POI MapID="1595" xpos="384.994" ypos="53.309" zpos="364.494" type="mymarkers.voe.shipwreck.chest" GUID="krsSwvyve0qrgn0PBqZZVg=="/>
@@ -100,6 +108,14 @@
 		<POI MapID="1595" xpos="-324.215" ypos="10.7474" zpos="-402.478" type="mymarkers.voe.shipwreck.chest" GUID="UPSRCXgROEGM8Cxr77oDQA=="/>
 		<!-- Other Instructions -->
 		<POI MapID="1595" xpos="222.349" ypos="0.296422" zpos="-465.734" type="mymarkers.voe.shipwreck.start" GUID="eQi0r2RfjEKeeUeF/Gs7mw=="/>
+		<POI MapID="1595" xpos="226.237" ypos="0.419723" zpos="-468.81" iconFile="Data/Markers/Numbers/1.png" GUID="1x1K282tFESaIn9XW7vZ5g=="/>
+		<POI MapID="1595" xpos="224.36" ypos="0.326471" zpos="-473.39" iconFile="Data/Markers/Numbers/3.png" GUID="xsj6U/M32E69hZqEE9LxLA=="/>
+		<POI MapID="1595" xpos="622.78" ypos="84.2486" zpos="-523.072" iconFile="Data/Markers/Numbers/1.png" GUID="rUThKHU+ok2MVbZEVNzDsQ=="/>
+		<POI MapID="1595" xpos="627.532" ypos="79.6771" zpos="-515.75" iconFile="Data/Markers/Numbers/3.png" GUID="lBCpuVMtvEWIAFVfbtIN5A=="/>
+		<POI MapID="1595" xpos="555.089" ypos="0.301243" zpos="664.842" iconFile="Data/Markers/Numbers/2.png" GUID="4BuwbTAjHk2gW+fXSt3f5A=="/>
+		<POI MapID="1595" xpos="-487.689" ypos="5.65069" zpos="-597.073" iconFile="Data/Markers/Finish.png" GUID="ytl3fL1HWUGyv7VBw32hGw=="/>
+		<POI MapID="1595" xpos="-321.522" ypos="9.70942" zpos="-409.897" iconFile="Data/Markers/Stop_Hand_Blue.png"  GUID="0jtpkvzTCUyyPKdDflU5SQ==" info="Log out and back in to either the Guild Hall or your Homestead" infoRange="10"/>
+		<POI MapID="1595" xpos="-327.785" ypos="8.41047" zpos="-415.114" iconFile="Data/Markers/trailarrow-wp.png" GUID="8+wPmpv78E+WWpCrdZVb0A==" copy="[&BJEPAAA=]" copy-message="Pub Canach Waypoint" info="Pub Canach Waypoint" infoRange="5"/>
 
 	<!-- STARLIT WEALD -->
 		<!-- Trail Data -->
